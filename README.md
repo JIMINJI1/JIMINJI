@@ -4,7 +4,7 @@
   🙋‍♀️ Introduction<br>
   Hi guys!👋 I'm Minji Ji. And I'm interested in software development and data analysis.
   <br><br>
-  🖥 Skills
+  🖥 Language
   <br>
   <a href="https://simpleicons.org/" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
   <br><br>
