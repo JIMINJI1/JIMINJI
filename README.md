@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I%20am%20Minji&fontSize=60" alt="header"/>
   <br><br>
   🙋‍♀️ Introduction<br>
-  Hi guys!👋 I'm Minji Ji. And I'm interested in software development and data analysis.
+  Hi guys!👋 I'm Minji Ji. And I'm interested in data analysis.
   <br><br>
   🖥 Language
   <br>
