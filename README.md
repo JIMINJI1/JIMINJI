@@ -4,19 +4,17 @@
 
 
 <!--- 소개 ----->
- 🙋‍♀️ Introduction<br>
+### 🙋‍♀️ Introduction<br>
 Hi guys!👋 I'm Minji Ji. And I'm interested in data analysis.
-<br><br>
-
- 💻 Tech Stack
-
+#
+<!--- 기술스택 ----->
+### 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,ts,react,django,fastapi,mysql)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow,selenium,vscode,androidstudio,figma,notion,github)](https://skillicons.dev)
-
-
-
+#
 <!------ 깃허브 사용상태 ----->
- <br><br>
+### 🌻State
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIMINJI1&show_icons=true&theme=merko)
+
 </div>
