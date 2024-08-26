@@ -5,7 +5,7 @@
 
 <!--- 소개 ----->
 ### 🙋‍♀️ Introduction<br>
-Hi guys!👋 I'm Minji Ji. And I'm interested in data analysis.
+Hi guys!👋 I'm Minji Ji.
 #
 <!--- 기술스택 ----->
 ### 💻 Tech Stack
