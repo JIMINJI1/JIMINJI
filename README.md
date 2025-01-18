@@ -9,9 +9,15 @@ Hi guys!👋 I'm Minji Ji.
 #
 <!--- 기술스택 ----->
 ### 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,django,fastapi,mysql)](https://skillicons.dev)
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring JPA](https://img.shields.io/badge/JPA-%23007396.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow,selenium,vscode,figma,notion,github)](https://skillicons.dev)
 #
 <!------ 깃허브 사용상태 ----->
 ### 🌻State
